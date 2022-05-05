@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<a href="https://github.com/lucas41/lucas41">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucas41" />
-</a>
-<a href="https://github.com/ricarthlima/ricarthlima">
-   <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=lucas41" />
-</a>
+<center>
+  <table>
+    <tr>
+        <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?        username=lucas41&show_icons=true&theme=dark&count_private=true" /></td>
+        <td> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucas41&show_icons=true&show_icons=true&theme=dark&count_private=true" /></td>
+    </tr>  
+  </table>
+</center>
 
 <!--
 **lucas41/lucas41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
