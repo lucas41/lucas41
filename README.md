@@ -30,6 +30,17 @@
   </table>
 </center>
 
+<br>
+<div>
+<center>
+ 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=c4games&width=800)](https://open.spotify.com/user/c4games)
+
+
+ 
+ </center>
+</div>
+
 <!--
 **lucas41/lucas41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
