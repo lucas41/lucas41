@@ -58,10 +58,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/lucas41/lucas41/blob/output/snake.svg" alt="Snake animation" />
-
-
-
  
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=c4games&width=800)](https://open.spotify.com/user/c4games)
 
